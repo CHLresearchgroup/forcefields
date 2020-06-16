@@ -7,7 +7,7 @@ Please add any newly modified (AND TESTED!) forcefields to this directory. Remem
 |charmm36-190509.ff|[charmm36-jul2017.ff](http://mackerell.umaryland.edu/download.php?filename=CHARMM_ff_params_files/charmm36-mar2019.ff.tgz)|PNS|Ser + Ppant arm|
 |-|-|PCN|Ser + cyanylated Ppant arm|
 |-|-|PDA|Ser + Ppant + C13 acyl chain|
-|-|-|PDy|Ser + Ppant + C13 acyl chain with alkyne probe on end|
+|-|-|PDY|Ser + Ppant + C13 acyl chain with alkyne probe on end|
 |-|-|P8A|Ser + Ppant + C8 acyl chain|
 |-|-|P8Y|Ser + Ppant + C8 acyl chain with alkyne probe on end|
 |-|-|P5A|Ser + Ppant + C5 acyl chain|
